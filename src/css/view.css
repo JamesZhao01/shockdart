@@ -1,0 +1,27 @@
+.charge {
+    height: 20px;
+}
+
+.non-active-lineup {
+    border: 2px solid blue;
+}
+
+.active-lineup {
+    border: 2px solid red;
+}
+
+.marker-primary {
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    background-color: green;
+    border: 2px solid blue;
+}
+
+.marker-secondary {
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    background-color: red;
+    border: 2px solid black;
+}
